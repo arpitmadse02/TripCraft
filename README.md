@@ -1,0 +1,2 @@
+# TripCraft
+AI-Trip-Planner
