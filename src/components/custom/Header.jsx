@@ -96,7 +96,7 @@ function Header() {
           </div>
         ) : (
           <Button
-            className="bg-[#3472be] text-white hover:bg-[#1e5c9d]"
+            className="bg-[#43a5c0] rounded-full shadow-lg hover:bg-[#046f8d] hover:text-white"
             onClick={() => setOpenDialog(true)}
           >
             Sign In
